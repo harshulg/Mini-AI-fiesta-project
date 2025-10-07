@@ -110,7 +110,7 @@ mini-ai-fiesta/
 └── README.md                # This file
 ```
 
-## 🎯 Available AI Models
+##  Available AI Models
 
 ### Google Gemini Models
 - **Gemini 2.5 Flash** -
@@ -146,7 +146,7 @@ GET /api/health
 GET /api/models
 ```
 
-## 🎨 UI Features
+##  UI Features
 
 ### Chat Interface
 - **Copy Buttons** - Copy individual messages or entire conversations
@@ -183,7 +183,7 @@ npm start           # Build and start production server
 - **Input Validation** - Server-side message validation
 - **Error Handling** - Graceful error responses
 
-## 🐛 Troubleshooting
+##  Troubleshooting
 
 ### Common Issues
 
@@ -214,9 +214,10 @@ The server includes debug logging for Hugging Face API calls. Check the console 
 
 
 
-## 📝 License
+##  License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 
 
