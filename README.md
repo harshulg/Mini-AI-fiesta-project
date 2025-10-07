@@ -38,7 +38,7 @@ A modern, full-stack AI chat application built with React, Tailwind CSS, and Exp
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/harshulg/Mini-AI-fiesta-project
    cd mini-ai-fiesta
    ```
 
@@ -217,5 +217,6 @@ The server includes debug logging for Hugging Face API calls. Check the console 
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 
