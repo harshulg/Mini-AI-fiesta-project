@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-gray-100 min-h-screen;
+  }
+}
+
+@layer components {
+  .message-bubble {
+    @apply max-w-xs lg:max-w-md xl:max-w-lg px-4 py-3 rounded-lg break-words;
+  }
+  
+  .message-user {
+    @apply bg-blue-600 text-white ml-auto;
+  }
+  
+  .message-ai {
+    @apply bg-gray-100 text-gray-800 border border-gray-200 mr-auto;
+  }
+  
+  .btn-primary {
+    @apply bg-blue-600 hover:bg-blue-700 text-white font-medium py-3 px-6 rounded-lg transition-colors duration-200;
+  }
+  
+  .input-field {
+    @apply w-full px-4 py-3 border border-gray-300 rounded-lg focus:border-blue-500 focus:outline-none transition-colors duration-200;
+  }
+}
