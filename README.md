@@ -10,7 +10,7 @@ A modern, full-stack AI chat application built with React, Tailwind CSS, and Exp
 - **Copy Functionality** - Copy individual messages or entire conversations
 - **Model Switching** - Switch between different AI models
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend
 - **React 18** 
@@ -217,4 +217,5 @@ The server includes debug logging for Hugging Face API calls. Check the console 
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
