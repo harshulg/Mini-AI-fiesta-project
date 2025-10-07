@@ -1,16 +1,14 @@
-# 🤖 Mini AI Fiesta
+#  Mini AI Fiesta
 
 A modern, full-stack AI chat application built with React, Tailwind CSS, and Express.js, featuring multiple AI models including Google Gemini and Hugging Face models.
 
 
-## ✨ Features
+##  Features
 
-- **Multiple AI Models** - Support for Google Gemini and Hugging Face models
-- **Real-time Chat** - Instant messaging with AI assistants
+- **Multiple AI Models** - Google Gemini and Hugging Face models
+- **Real-time Chat** - Chat with AI assistants
 - **Copy Functionality** - Copy individual messages or entire conversations
-- **Model Switching** - Switch between different AI models on the fly
-- **Fast Performance** - Built with Vite for lightning-fast development
-- **Secure API** - Environment variables-based API key management
+- **Model Switching** - Switch between different AI models
 
 ## 🛠️ Tech Stack
 
@@ -219,3 +217,4 @@ The server includes debug logging for Hugging Face API calls. Check the console 
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
